@@ -1,0 +1,92 @@
+.lnr {
+    display: inline-block;
+    font-size: 22px;
+    margin-right: 5px;
+    text-align: center;
+    width: 32px;
+    color: #1c1f21;
+    position: relative;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    top: 4px;
+}
+
+
+.far {
+    display: inline-block;
+    font-size: 18px;
+    margin-right: 5px;
+    text-align: center;
+    width: 25px;
+    color: #007bff;
+    position: relative;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    top: 2px;
+}
+
+.fas {
+    display: inline-block;
+    font-size: 18px;
+    margin-right: 5px;
+    text-align: center;
+    width: 25px;
+    color: #007bff;
+    position: relative;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    top: 1px;
+}
+
+.fab {
+    display: inline-block;
+    font-size: 18px;
+    margin-right: 5px;
+    text-align: center;
+    width: 25px;
+    color: #007bff;
+    position: relative;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    top: 2px;
+}
+
+table {
+    border: none !important;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.height-75 {
+    height: 75px;
+}
+
+.tester {
+    border: none !important;
+}
+
+.no-dots {
+    list-style-type: none;
+}
+
+.text-black {
+    color: #1c1f21;
+}
+
+.to-white:hover .fa-plus {
+    color: white;
+}
+
+.fa-plus {
+    transition: color 0.01s ease-in-out;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.transparent {
+    color: transparent;
+}

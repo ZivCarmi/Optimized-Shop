@@ -1,0 +1,82 @@
+.logo {
+    width: 200px;
+}
+
+.fa-shopping-cart {
+    position: relative;
+}
+
+.shopping-cart-li {
+    list-style-type: none;
+}
+
+.profile-ul {
+    top: 87% !important;
+}
+
+.seperator {
+    width: 1px;
+    border: none;
+    border-right: 1px dotted rgb(127, 127, 127);
+}
+
+.text-decoration-underline {
+    text-decoration: underline;
+}
+
+.bg-gray {
+    background-color: #e9ecef !important;
+}
+
+.contact-alert {
+    position: relative;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
+.icon-box-icon {
+    margin-right: 16px;
+    margin-right: 1rem;
+    border-radius: 100%;
+    width: auto;
+    height: auto;
+    padding: 36.8px;
+    padding: 2.3rem;
+    text-align: center;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+}
+
+.left-103 {
+    left: 103%;
+}
+
+.left-6 {
+    left: 6%;
+}
+
+.left-21 {
+    left: 21%;
+}
+
+@media (max-width: 570px) {
+    .nav-padding {
+        padding: 0px 18px 0px 18px;
+    }
+}
+
+.no-items {
+    margin-bottom: 200px;
+}
+
+.line1-5 {
+    line-height: 1.5;
+}
